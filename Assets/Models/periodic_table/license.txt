@@ -1,0 +1,11 @@
+Model Information:
+* title:	Periodic_Table
+* source:	https://sketchfab.com/3d-models/periodic-table-c9d421cf508e48a393d7b20835794f55
+* author:	rubysloth32 (https://sketchfab.com/rubysloth32)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Periodic_Table" (https://sketchfab.com/3d-models/periodic-table-c9d421cf508e48a393d7b20835794f55) by rubysloth32 (https://sketchfab.com/rubysloth32) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
