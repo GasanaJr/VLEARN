@@ -22,16 +22,9 @@ public class ParticlePhysics : MonoBehaviour
     {
         if (rb != null)
         {
-            // Always enable gravity
             rb.useGravity = enableGravity;
-
-            // Prevent particles from sleeping
             rb.sleepThreshold = 0f;
-
-            // Ensure collision detection is continuous
             rb.collisionDetectionMode = CollisionDetectionMode.Continuous;
-
-            // Add some drag to prevent excessive velocity
             rb.drag = 0.5f;
         }
     }
